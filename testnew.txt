@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hieu ne xxx
+=======
+hieu ne zzz ne
+>>>>>>> origin/ktLoi
